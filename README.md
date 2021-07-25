@@ -31,7 +31,7 @@ npm install --global http-server
 
 1. Build met platformio.
 
-2. Upload met plqatformio.
+2. Upload met platformio.
 
 3. Update de OTA versie om overeen te komen:
 ```sh
